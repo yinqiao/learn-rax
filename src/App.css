@@ -1,3 +1,27 @@
+/*list*/
+.title {
+  color: red;
+  font-size: 80;
+}
+
+.text {
+  color: blue;
+  font-size: 40;
+}
+
+.loading {
+  color: green;
+  font-size: 60;
+}
+
+.item {
+  color: yellow;
+  font-size: 40;
+}
+
+
+/*app*/
+
 .app {
   flex: 1;
   justify-content: center;
